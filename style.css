@@ -34,3 +34,24 @@
 .categories img{
     width: 100px;
 }
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-group{
+    gap: 30px;
+}
+.card-footer{
+    background-color: white !important;
+    border-top: none !important;
+}
+#Subscribe{
+    height: 300px;
+}
+#Subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
